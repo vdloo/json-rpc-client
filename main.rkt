@@ -1,9 +1,6 @@
 #!/usr/bin/env racket
 #lang racket/base
 
-(module+ test
-  (require rackunit))
-
 ;; Notice
 ;; To install (from within the package directory):
 ;;   $ raco pkg install
@@ -15,10 +12,6 @@
 ;;   $ raco doc <<name>>
 
 ;; Code here
-
-(module+ test
-  ;; Tests to be run with raco test
-  )
 
 (module+ main
   ;; Main entry point, executed when run with the `racket` executable or DrRacket.
