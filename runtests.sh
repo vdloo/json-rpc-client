@@ -11,6 +11,6 @@ else
     while :; do
         clear
 	run_tests
-        sleep 2
+        sleep 10
     done
 fi;

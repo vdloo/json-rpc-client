@@ -1,0 +1,7 @@
+# vim
+*.swp
+*.swo
+
+# raco
+compiled/
+doc/
